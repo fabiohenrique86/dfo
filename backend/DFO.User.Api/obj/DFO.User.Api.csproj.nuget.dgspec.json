@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Api\\DFO.User.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Api\\DFO.User.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Api\\DFO.User.Api.csproj",
+        "projectName": "DFO.User.Api",
+        "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Api\\DFO.User.Api.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Business\\DFO.User.Business.csproj": {
+                "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Business\\DFO.User.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.4.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Business\\DFO.User.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Business\\DFO.User.Business.csproj",
+        "projectName": "DFO.User.Business",
+        "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Business\\DFO.User.Business.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj": {
+                "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj"
+              },
+              "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Repository\\DFO.User.Repository.csproj": {
+                "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Repository\\DFO.User.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj",
+        "projectName": "DFO.User.Dto",
+        "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Repository\\DFO.User.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Repository\\DFO.User.Repository.csproj",
+        "projectName": "DFO.User.Repository",
+        "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Repository\\DFO.User.Repository.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj": {
+                "projectPath": "C:\\Users\\fabio\\Documents\\Visual Studio Code\\dfo\\backend\\DFO.User.Dto\\DFO.User.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

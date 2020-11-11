@@ -1,0 +1,24 @@
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Repository.deps.json
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Repository.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Repository.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.AssemblyInfo.cs
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.csproj.CopyComplete
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Repository.deps.json
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Repository.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Repository.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\bin\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.AssemblyInfo.cs
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Repository\obj\Debug\netcoreapp2.2\DFO.User.Repository.pdb

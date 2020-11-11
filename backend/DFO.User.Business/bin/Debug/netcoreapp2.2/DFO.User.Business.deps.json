@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "DFO.User.Business/1.0.0": {
+        "dependencies": {
+          "DFO.User.Dto": "1.0.0",
+          "DFO.User.Repository": "1.0.0"
+        },
+        "runtime": {
+          "DFO.User.Business.dll": {}
+        }
+      },
+      "DFO.User.Dto/1.0.0": {
+        "runtime": {
+          "DFO.User.Dto.dll": {}
+        }
+      },
+      "DFO.User.Repository/1.0.0": {
+        "dependencies": {
+          "DFO.User.Dto": "1.0.0"
+        },
+        "runtime": {
+          "DFO.User.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DFO.User.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DFO.User.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DFO.User.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

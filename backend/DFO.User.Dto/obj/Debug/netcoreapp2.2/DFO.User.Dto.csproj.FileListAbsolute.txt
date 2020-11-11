@@ -1,0 +1,18 @@
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\bin\Debug\netcoreapp2.2\DFO.User.Dto.deps.json
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\bin\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\bin\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.AssemblyInfo.cs
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\bin\Debug\netcoreapp2.2\DFO.User.Dto.deps.json
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\bin\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\bin\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.AssemblyInfo.cs
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Dto\obj\Debug\netcoreapp2.2\DFO.User.Dto.pdb

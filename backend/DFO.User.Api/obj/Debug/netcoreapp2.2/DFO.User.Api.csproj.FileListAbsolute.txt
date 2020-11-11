@@ -1,0 +1,42 @@
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.AssemblyInfo.cs
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.deps.json
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.runtimeconfig.json
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.RazorAssemblyInfo.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.RazorAssemblyInfo.cs
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.RazorTargetAssemblyInfo.cache
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Business.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Repository.dll
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Business.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Repository.pdb
+C:\Users\fabio\source\repos\DFO.User.Api\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.deps.json
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.runtimeconfig.json
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Api.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Business.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Dto.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Repository.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Business.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Dto.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\bin\Debug\netcoreapp2.2\DFO.User.Repository.pdb
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.RazorAssemblyInfo.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.RazorAssemblyInfo.cs
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.AssemblyInfo.cs
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.RazorTargetAssemblyInfo.cache
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.dll
+C:\Users\fabio\Documents\Visual Studio Code\dfo\backend\DFO.User.Api\obj\Debug\netcoreapp2.2\DFO.User.Api.pdb
