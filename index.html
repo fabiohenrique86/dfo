@@ -1,0 +1,77 @@
+<!doctype html>
+<html ng-app>
+
+<head>
+  <title>List of users with AngularJS</title>
+  <meta charset="utf-8">
+  <!-- build:css /lib/styles.min.css -->
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/toastr.css">
+  <link rel="stylesheet" href="css/application.css">
+  <!-- endbuild -->
+</head>
+
+<body>
+  <div class="container" ng-controller="UserController" ng-init="getAll()">
+
+    <div class="row">
+      <div class="page-header">
+        <div class="span9">
+          <h1>List of users</h1>
+        </div>
+        <div class="span3">
+          <input type="search" ng-model="search" placeholder="Search by Name" value="">
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <table id="list-users" class="table table-striped">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="user in users | filter:{name:search}">
+            <td>
+              {{ user.name }}
+            </td>
+            <td>
+              {{ user.age }}
+            </td>
+            <td>{{ user.address }}</td>
+            <td>
+              <button class="btn btn-warning btn-small" ng-click="editUser(user.id)">
+                <i class="icon-pencil icon-white"></i> edit
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <form class="row form-inline" name="validateForm">
+      <input type="text" ng-model="user.name" placeholder="Name" required>
+      <input type="number" ng-model="user.age" placeholder="Age" class="input-small" required>
+      <input type="text" ng-model="user.address" placeholder="Address">
+      <button ng-hide="edit" class="btn btn-success" ng-disabled="validateForm.$invalid" ng-click="addUser()">
+        <i class="icon-plus icon-white"></i> add
+      </button>
+      <button ng-show="edit" class="btn btn-success" ng-disabled="validateForm.$invalid" ng-click="applyChanges(user.id)">
+        <i class="icon-ok icon-white"></i> save
+      </button>
+    </form>
+  </div>
+  <!--build:js /lib/scripts.min.js -->
+  <script src="lib/jquery.min.js"></script>
+  <script src="lib/angular.min.js"></script>
+  <script src="lib/toastr.min.js"></script>
+  <script src="app/users.js"></script>
+  <!-- endbuild -->
+</body>
+
+</html>
